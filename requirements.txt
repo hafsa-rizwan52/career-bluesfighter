@@ -1,0 +1,11 @@
+# tensorflow
+# bokeh
+# numpy
+# pandas
+# streamlit
+# joblib
+# pathlib
+# nltk
+
+langchain-community
+huggingface-hub
